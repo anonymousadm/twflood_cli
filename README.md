@@ -6,3 +6,4 @@ Copy all the hashtags or words into "Tweets.list"
 
 Copy all the images into the folder which defined in "init.conf" parameter _PICFOLDER
 
+Don't forget install jq.
